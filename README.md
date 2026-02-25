@@ -4,4 +4,5 @@
 - Experiment 3: Neural Network to Classify Linearly Separable and Non-linearly Separable Datasets using Numpy - 23/01/2025 <br>
 - Experiment 4: CNN to Classify Cifar10 and CatsVsDogs Datasets - 30/01/2025 <br>
 - Experiment 5: RNN Text Generation Using One Hot Encoding and Word Embeddings - 06/02/2025 <br>
-- Experiment 6: Sequence-to-Sequence (Seq2Seq) model for English-to-Spanish translation - 13/02/2025 <br>
+- Experiment 6: Sequence-to-Sequence (Seq2Seq) model for English-to-Spanish translation using LSTM - 13/02/2025 <br>
+- Experiment 7: Sequence-to-Sequence (Seq2Seq) model for English-to-Spanish translation using Transformer - 20/02/2025 <br>
